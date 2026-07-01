@@ -1,7 +1,17 @@
-.top-head {
+.head-text {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: #166534;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(133, 0, 0);
-    background-color: 100px  #166534;
-    
+
+}
+
+nav {
+  list-style-type: none;
+  margin-right: 15px;
+  text-decoration: none;
+  padding: 15px 20px;
+
+
 
 }
