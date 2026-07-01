@@ -13,3 +13,8 @@ nav {
   padding: 15px 20px;
   margin: 0px;
 }
+.navbar a {
+  color: rgb(103, 0, 230);
+  text-decoration: none;
+  padding: 10px;
+}
